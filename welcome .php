@@ -65,6 +65,6 @@
     let x= document.getElementById('msgt');
     x.style.display='none';
   }
-</script>
-</body>
-</html>
+//</script>
+//</body>
+//</html>

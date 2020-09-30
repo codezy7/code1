@@ -49,7 +49,7 @@
 
  </div>
   <div class="container">
-      <h2 class="section-head"> Why Blood Donation</h2>
+      <h2 class="section-head"> Why Donate Blood</h2>
       <div class="border"></div>
       <div class="section-img">
       <img src="images\1023.jpg" alt="">
@@ -65,6 +65,6 @@
     let x= document.getElementById('msgt');
     x.style.display='none';
   }
-//</script>
-//</body>
-//</html>
+</script>
+</body>
+</html>
